@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-02T06:22:42.678Z</updated>
+  <updated>2018-02-02T06:25:59.898Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/02/01/first/"/>
     <id>http://yoursite.com/2018/02/01/first/</id>
     <published>2018-02-01T13:30:05.000Z</published>
-    <updated>2018-02-02T06:22:42.678Z</updated>
+    <updated>2018-02-02T06:25:59.898Z</updated>
     
     <summary type="html">
     
@@ -30,7 +30,7 @@
       <category term="java" scheme="http://yoursite.com/categories/java/"/>
     
     
-      <category term="-java -ssm" scheme="http://yoursite.com/tags/java-ssm/"/>
+      <category term="java ssm" scheme="http://yoursite.com/tags/java-ssm/"/>
     
   </entry>
   
